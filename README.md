@@ -27,7 +27,7 @@ As a beginner, I focused on mastering the fundamentals:
 
 ## Key Findings
 - COVID-19 cases and deaths **decreased** from 2020 to 2022  
-- **USA, India, and the UK** had the highest number of reported cases  
+- **Canada, Italy, and Japan** had the highest number of reported cases  
 - There is **no strong linear correlation** between GDP per capita and vaccination rate  
 - Strict government policies **don’t always** result in lower virus reproduction rates  
 
